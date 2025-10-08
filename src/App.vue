@@ -67,7 +67,7 @@ const experiences = ref<Experience[]>([
     company: 'Options Clearing Corporation | Chicago, IL',
     period: 'May 2024 - Aug 2024',
     description: 'Developed and executed automated Cucumber and ServiceNow tests using Java and Selenium to ensure critical business practices and regulatory compliance for enterprise-level applications.',
-    image: '/occ_formatted.png',
+    image: 'occ_formatted.png',
     tech: ['Java', 'Selenium', 'Cucumber', 'ServiceNow ATF']
   },
   {
@@ -76,7 +76,7 @@ const experiences = ref<Experience[]>([
     period: 'Aug 2024 - May 2025',
     description: 'Engineered and deployed a production-ready AI chatbot using JavaScript, PHP, and Flask on WordPress, applying security best practices to protect data flow and provide real-time cybersecurity insights.',
     link: 'https://acc.cyio.iastate.edu/ask-captain-cyber-chat/',
-    image: '/Ask_Captain_Cyber.png',
+    image: 'Ask_Captain_Cyber.png',
     tech: ['Javascript', 'PHP', 'Python', 'WordPress']
   },
   {
@@ -84,7 +84,7 @@ const experiences = ref<Experience[]>([
     company: 'Project',
     period: 'Jan 2025 - May 2025',
     description: 'Built a modular prediction system in Python using Pandas and Scikit-learn to analyze audio datasets, improving accuracy through feature selection and reporting model performance with cross-validation metrics.',
-    image: '/Song_Popularity.png',
+    image: 'Song_Popularity.png',
     link: 'https://github.com/cdnmrph/Song-Popularity-ML-Model',
     tech: ['Python', 'Pandas', 'Scikit-learn']
   },
@@ -93,7 +93,7 @@ const experiences = ref<Experience[]>([
     company: 'Project',
     period: 'Jan 2023 - May 2023',
     description: 'Collaborated on a small development team to design an Android application for tracking work hours, contributing Kotlin-based components with Jetpack Compose and implementing a CI/CD pipeline using GitHub Actions.',
-    image: '/hourly_collage.png',
+    image: 'hourly_collage.png',
     tech: ['Kotlin', 'Android Studio', 'Postman']
   },
   {
@@ -101,7 +101,7 @@ const experiences = ref<Experience[]>([
     company: 'Iowa State University',
     period: 'Oct 2022 - May 2025',
     description: 'Interviewed, trained, onboarded student employees in order to provide excellent customer service to a variety of inquirers, collaborated across deparments of the university to provide accurate information.',
-    image: '/ISU.png',
+    image: 'ISU.png',
     tech: ['Salesforce', 'Workday']
   }
 ])
