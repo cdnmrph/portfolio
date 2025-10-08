@@ -130,7 +130,7 @@ const scrollToSection = (sectionId: string) => {
       <div class="container-max section-padding py-4">
         <div class="flex justify-between items-center">
           <div class="text-2xl font-bold text-gradient">
-            Portfolio
+            Computer Engineering Portfolio
           </div>
           <div class="hidden md:flex space-x-8">
             <button @click="scrollToSection('hero')" class="hover:text-web3-accent transition-colors">Home</button>
@@ -157,7 +157,7 @@ const scrollToSection = (sectionId: string) => {
           <!-- Profile Image Placeholder -->
           <div class="w-48 h-48 mx-auto mb-8 rounded-full bg-gradient-to-br from-web3-accent to-web3-cyan p-1">
             <div class="w-full h-full rounded-full bg-web3-gray flex items-center justify-center">
-              <span class="text-4xl">👨‍💻</span>
+              <img src="/sitting_formatted_pfp.png" alt="Caden Murphy pfp" class="w-full h-full object-cover rounded-full"/>
             </div>
           </div>
 
@@ -207,12 +207,11 @@ const scrollToSection = (sectionId: string) => {
           <div class="grid md:grid-cols-2 gap-12 items-center">
             <div class="space-y-6">
               <p class="text-lg text-gray-300 leading-relaxed">
-                Graduate of Iowa State University in Computer Engineering. Developed strong skills regarding
+                Graduate of Iowa State University with a Bachelors in Computer Engineering. Through curriculum and experience, developed skills regarding
                 software/hardware development, project management,
-                and high level communication skills. Has experience working within a highly regulated financial market
-                utility environment and incorporating AI
-                into live products. Passionate about building high quality software designed for the user and
-                interacting with technical and non-technical parties.
+                and high level communication. Worked within a highly regulated financial market
+                utility environment, incorporating AI into live products, and acted as a point of contact between technical and non-techical parties.
+                Passionate about building high quality software designed for the user ensuring security, scalability, and maintainability.
               </p>
               <div class="flex flex-wrap gap-3">
                 <span class="px-4 py-2 glass-effect rounded-full text-sm">Full Stack Development</span>
