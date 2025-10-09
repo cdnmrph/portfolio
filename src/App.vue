@@ -89,6 +89,15 @@ const experiences = ref<Experience[]>([
     tech: ['Python', 'Pandas', 'Scikit-learn']
   },
   {
+    title: 'Bobcat Cleaning',
+    company: 'Project',
+    period: 'Sep 2025',
+    description: 'Designed, launched, delivered custom site for cleaning service. Incorporated several functions such as quoting, contacting, scheduling, and email notifications. Took in user feedback and make changes as company evolves.',
+    image: 'Bobcat_Collage.png',
+    link:'https://github.com/cdnmrph/bobcat-services',
+    tech: ['Typescript', 'Tailwind CSS']
+  },
+  {
     title: 'Hourly Android Application',
     company: 'Project',
     period: 'Jan 2023 - May 2023',
